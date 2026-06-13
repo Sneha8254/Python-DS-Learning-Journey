@@ -9,13 +9,11 @@ Goal: Land a Data Science internship at a top company by graduation (June 2027).
 Deepen Python, Data Science, and ML skills through daily structured practice.
 
 ## 📅 Progress Tracker
-| Day      | Topic                              | Status         |
-| -------- | ---------------------------------- | -------------- |
-| Day 1    | Python lists, loops, fixing errors | ✅ Done        |
-| Day 2    | max, min, sum, average, if/else    | ✅ Done        |
-| Day 3    | Pandas — data tables               | 🔄 In Progress |
-| Day 4–28 | Coming soon...                     | ⏳             |
-
+| Day 1 | Python lists, loops, fixing errors | ✅ Done |
+| Day 2 | max, min, sum, average, if/else | ✅ Done |
+| Day 3 | Pandas — DataFrames, filter, sort | ✅ Done |
+| Day 4 | Loading real datasets | 🔄 In Progress |
+| Day 5–28 | Coming soon... | ⏳ |
 ## 🛠️ Tools Used
 - Python
 - Google Colab
