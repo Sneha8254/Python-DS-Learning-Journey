@@ -7,7 +7,7 @@ Hi, I'm Sneha Singh Rajput — a final year BCA student at Amity University.
 Goal: Land a Data Science role at a top company by graduation (June 2027).
 
 ## 🎯 Goal
-Build strong Python + Data Science + SDE skills from scratch through daily practice.
+Build strong Python + Data Science + SDE skills from Deepen Python, Data Science, and ML skills through daily structured practice." through daily practice.
 
 ## 📅 Progress Tracker
 
